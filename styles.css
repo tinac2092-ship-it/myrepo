@@ -1,0 +1,46 @@
+
+/* 1. Style the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f6fc;
+    margin: 0;
+    padding: 20px;
+}
+
+/* 2. Style the main heading */
+h1 {
+    color: #2563eb;
+    text-align: center;
+}
+
+/* 3. Style paragraphs */
+p {
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* 4. Create a card */
+.card {
+    background-color: white;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px #0000001a;
+}
+
+/* 5. Style a button */
+button {
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* 6. Change button color on hover */
+button:hover {
+    background-color: #1d4ed8;
+}
